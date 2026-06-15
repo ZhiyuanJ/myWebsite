@@ -3,6 +3,7 @@ import type { AstroExpressiveCodeOptions } from "astro-expressive-code";
 
 export const siteConfig: SiteConfig = {
 	author: "Zhiyuan Jiang",
+	lang : "en",
 	date: {
 		locale: "en-US",
 		options: {
